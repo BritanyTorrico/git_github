@@ -1,5 +1,6 @@
 # git_github
 Insert code example from external file:
+<<<<<<< HEAD
 <!-- #code path/to/file.dart -->
 
 Create a table of contents based on used headlines:
@@ -10,3 +11,6 @@ This will include another markdown file:
 
 
 wao
+=======
+adasdsad
+>>>>>>> 4387397 (version 2 del readme)

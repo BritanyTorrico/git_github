@@ -13,4 +13,6 @@ This will include another markdown file:
 wao
 =======
 adasdsad
->>>>>>> 4387397 (version 2 del readme)
+>>>>>>> 4387397 (ve20
+
+2022
